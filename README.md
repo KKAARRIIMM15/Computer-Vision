@@ -10,5 +10,5 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 Mask R-CNN is simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps
 
 # References
-[https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf]
+[Mask R-CNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
